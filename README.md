@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td align="center"> 메<br>인<br>화<br>면 </td>
-    <td width="250"> <img src="https://github.com/hye33/Skewer-Master/assets/128382222/407933a0-182e-473e-890c-87518ce8e439"> </td>
+    <td width="250"> <img src="https://github.com/hye33/Skewer_Master/assets/128382222/aa6c8204-f3ee-4228-9376-77d5b3c91601"> </td>
     <td width="250"> </td>
     <td>
       - 로컬에 저장된 파일이 있을 경우 불러오고, 없을 경우 초기 데이터로 게임 데이터를 초기화한다.
@@ -37,8 +37,8 @@
   </tr>
   <tr>
     <td align="center"> 게<br>임<br>화<br>면 </td>
-    <td> <img src="https://github.com/hye33/Skewer-Master/assets/128382222/578b42fa-fee4-4b76-96db-af6b9de334b3"> </td>
-    <td> <img src="https://github.com/hye33/Skewer-Master/assets/128382222/6c7fba59-3e44-4165-8bdd-b79c78342eab"> </td>
+    <td> <img src="https://github.com/hye33/Skewer_Master/assets/128382222/0d65d295-a07d-42a2-8e05-603fc8f916c0"> </td>
+    <td> <img src="https://github.com/hye33/Skewer_Master/assets/128382222/64663905-d4ec-462e-a463-934c8bfdd38b"> </td>
     <td>
       - 화면 터치 시 블럭이 좌우 움직임을 멈추고 아래로 하강한다.
       <br>
@@ -49,7 +49,7 @@
   </tr>
   <tr>
     <td align="center"> 일<br>시<br>정<br>지 </td>
-    <td> <img src="https://github.com/hye33/Skewer-Master/assets/128382222/efe131b2-6a62-4a20-9b88-73cd1a7b6cf0"> </td>
+    <td> <img src="https://github.com/hye33/Skewer_Master/assets/128382222/f66418c6-603b-4fa2-92d5-bb64eb7f8bac"> </td>
     <td> </td>
     <td>
       - Resume 버튼으로 게임을 재개할 수 있다.
@@ -61,8 +61,8 @@
   </tr>
   <tr>
     <td align="center"> 게<br>임<br>오<br>버 </td>
-    <td> <img src="https://github.com/hye33/Skewer-Master/assets/128382222/91e34eef-1510-4ec2-a152-0fb80364c2e1"> </td>
-    <td> <img src="https://github.com/hye33/Skewer-Master/assets/128382222/ebfe042a-b023-4bc5-b616-17bf33f66536"> </td>
+    <td> <img src="https://github.com/hye33/Skewer_Master/assets/128382222/8ddc61ec-2c97-484c-b5db-1d74a07c356d"> </td>
+    <td> <img src="https://github.com/hye33/Skewer_Master/assets/128382222/4c347b93-d8a2-4f2a-b865-fdd523dda2e4"> </td>
     <td>
       - 게임 오버 시 좌측 이미지와 같은 팝업이 뜨며, 광고 아이콘을 클릭 시 게임을 재개할 수 있다.
       <br>
@@ -73,8 +73,8 @@
   </tr>
   <tr>
     <td align="center"> 상<br>점<br>화<br>면 </td>
-    <td> <img src="https://github.com/hye33/Skewer-Master/assets/128382222/8040575d-b06b-4584-a326-539ce5fbe676"> </td>
-    <td> <img src="https://github.com/hye33/Skewer-Master/assets/128382222/aae90cf0-b576-4f3b-9eff-2b3794e18646"> </td>
+    <td> <img src="https://github.com/hye33/Skewer_Master/assets/128382222/6196127e-163f-4c31-aa79-8154108c681b"> </td>
+    <td> <img src="https://github.com/hye33/Skewer_Master/assets/128382222/4940f1a2-2af9-4aee-8449-2ff2927efdb0"> </td>
     <td>
       - 보유하고 있지 않은 테마는 자물쇠로 잠겨 있어 선택이 불가능하다.
       <br>
@@ -87,8 +87,8 @@
   </tr>
   <tr>
     <td align="center"> 상<br>점<br>토<br>스<br>트 </td>
-    <td> <img src="https://github.com/hye33/Skewer-Master/assets/128382222/33b53161-3a94-4bc3-84ff-bb30c5e992e8"> </td>
-    <td> <img src="https://github.com/hye33/Skewer-Master/assets/128382222/1d6de963-efa6-40c1-86fb-8209fcc8810e"> </td>
+    <td> <img src="https://github.com/hye33/Skewer_Master/assets/128382222/097aae47-35ab-4c45-bc95-9cfb68f7783c"> </td>
+    <td> <img src="https://github.com/hye33/Skewer_Master/assets/128382222/6196127e-163f-4c31-aa79-8154108c681b"> </td>
     <td>
       - 소지 코인이 부족한 경우, 좌측과 같은 토스트 메시지가 출력된다.
       <br>
