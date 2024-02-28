@@ -88,7 +88,7 @@
   <tr>
     <td align="center"> 상<br>점<br>토<br>스<br>트 </td>
     <td> <img src="https://github.com/hye33/Skewer_Master/assets/128382222/097aae47-35ab-4c45-bc95-9cfb68f7783c"> </td>
-    <td> <img src="https://github.com/hye33/Skewer_Master/assets/128382222/6196127e-163f-4c31-aa79-8154108c681b"> </td>
+    <td> <img src="https://github.com/hye33/Skewer_Master/assets/128382222/f19cc573-2b82-4b5b-be0c-07affcb32921"> </td>
     <td>
       - 소지 코인이 부족한 경우, 좌측과 같은 토스트 메시지가 출력된다.
       <br>
